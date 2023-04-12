@@ -10,7 +10,7 @@
     "asset_attributes": [
       "job"
     ],
-    "description": "Train churn prediction model"
+    "description": "Train churn prediction model test"
   },
   "entity": {
     "job": {
